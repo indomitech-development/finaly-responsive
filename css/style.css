@@ -1,0 +1,236 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.main{
+    background-image: url("../assets/images/Component\ 1\ –\ 1.png");
+    background-size: 1350px 650px;
+    height:650px;
+    /* min-height:100vh; */
+    background-repeat: no-repeat;
+    padding:220px 0 200px;
+}
+.nav-item{
+    margin-left:50px;
+}
+.try{
+    border-radius:20px;
+}
+.free{
+    width:160px;
+    border-radius:20px;
+    border-color: white;
+}
+@media screen and (max-width: 900px) {
+.main{
+    background-image:url("../assets/images/photo-1638263012911-5b08696a3631.jfif")
+}
+.w-75{
+    margin-left:50px;
+}
+.repeat-grid,.repeat-grid3{
+    display: none;
+}
+.orangediv{
+    display:none;
+}
+.leftcard{
+    margin-right:300px;
+}
+}
+@media screen and (max-width:1000px){
+    .footerlogos{
+        display:none;
+        position:absolute;
+    }
+
+}
+.line{
+    width:100px;
+    height:2px;
+}
+.repeat-grid{
+    width:180px;
+}
+.book{
+    margin-left:110px;
+}
+.booknow{
+    background: #FFB75E;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ED8F03, #FFB75E);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ED8F03, #FFB75E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    margin-left:50px;
+    border-radius:20px;
+
+}
+.cloud-hosting{
+    background-color:#EE9617;
+}
+.buy-license{
+    background-color:#F8F5F4;
+    border:1px solid black;
+    border-style:dashed;
+}
+.heading-one{
+    margin-left:80px;
+}
+.card-line{
+    width:200px;
+    height:2px;
+    background-color:#BFBFBF;
+}
+.card-paragraph{
+    width:450px;
+    height:250px;
+    float:left;
+}
+.card-image{
+    float:right;
+    width:300px;
+    height:200px;
+}
+.explorebtn{
+    border-radius:20px;
+    border:1px solid #BFBFBF;
+}
+.unitedcard{
+    margin-left:130px;
+    font-size:12px;
+}
+@media screen and (max-width: 500px) {
+    .heading-one{
+        margin-left:10px;
+    }
+    .consultant{
+       background-size:100% 250px;
+       margin-left:60px;
+       margin-top:20px;
+    }
+    .hide{
+        display:none;
+    }
+}
+.orangediv{
+    width:50px;
+    height:250px;
+}
+.whitediv{
+    height:250px;
+    width:700px;
+}
+.consultant{
+    background-image: url("../assets/images/Rectangle\ 1021.png");
+    background-repeat:no-repeat;
+    background-size: 350px 250px;
+    height:295px;
+    width:370px;
+}
+.callbackbtn{
+    margin-top:120px;
+    border-radius:20px;
+    
+}
+.repeat-grid3{
+    width:200px;
+}
+.dot {
+    height: 15px;
+    width: 15px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .footerlogos{
+      width:1000px;
+      margin-left:100px;
+  }
+  .footerlogosbg{
+      width:100%;
+      height:180px;
+      background-color:#FDFDFD;
+  }
+  .second-last{
+      height:100%;
+      width:100%;
+      background-color:#F96A45;
+  }
+  .services{
+      margin-left:200px;
+      margin-top:100px;
+  }
+  .email{
+      margin-top:100px;
+  }
+  .type{
+      border-radius:20px;
+  }
+  #button-addon2{
+      border-radius: 20px;
+      position:absolute;
+      margin-left:270px;
+  }
+  .div1{
+    width:200px;
+    height:350px;
+    background-image:url("../assets/images/Path\ 14911.png");
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-color:white;
+    border-width:1px;  
+    border-style:dashed;
+    margin-top:30px;
+}
+.ellipse{
+    margin-top:30px;
+    margin-left:30px;
+}
+.name{
+    margin-left:60px;
+    margin-top:30px;
+}
+.checked{
+    color:orange;
+    
+}
+.star{
+    margin-left:55px;
+}
+.div2{
+    width:250px;
+    height:400px;
+    background-image:url("../assets/images/Group\ 10344.png");
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-color:white;
+    border-width:1px;  
+    border-style:dashed;
+    box-shadow:2px 2px 20px 3px gray;
+}
+.ellipse1{
+   width:100px;
+   margin-top:50px;
+    margin-left:70px;
+}
+.name2{
+    margin-left:80px;
+    margin-top:100px;
+}
+.star2{
+    margin-left:67px;
+}
+.div3{
+    width:200px;
+    height:350px;
+    background-image:url("../assets/images/Path\ 14911.png");
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-color:white;
+    border-width:1px;  
+    border-style:dashed;
+    margin-top:30px;
+}
+.background{
+    background-color:rgb(246, 244, 244);
+    margin-top:100px;
+    height:200px;
+}
